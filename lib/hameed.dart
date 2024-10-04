@@ -5,7 +5,7 @@ class HameedDesign extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('LAB # 3'),
+        title: Text('LAB #3'),
         centerTitle: true,
       ),
       body: SingleChildScrollView(
